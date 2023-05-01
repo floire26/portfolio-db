@@ -1,1 +1,23 @@
-
+[
+    {
+        "id": 1,
+        "title": "Toko Mebel Misteri",
+        "summary": "A website where the catalogue is randomized. Built with HTML and JS",
+        "url": "https://floire26.github.io/hackathon-10-feb",
+        "imageUrl": "https://uxwing.com/wp-content/themes/uxwing/download/household-and-furniture/furniture-icon.png"
+    },
+    {
+        "id": 2,
+        "title": "Writerify",
+        "summary": "A website that test your writing and give you writing classes recommedations. Built with EJS and Express",
+        "url": "https://floire26.github.io/writerify",
+        "imageUrl": "https://cdn-icons-png.flaticon.com/512/6300/6300787.png"
+    },
+    {
+        "id": 3,
+        "title": "Happily Ever After... Or Not",
+        "summary": "A website that let you generate your own story. Built with Vue.JS",
+        "url": "https://h8-individual-project.web.app",
+        "imageUrl": "https://h8-individual-project.web.app/assets/imgs/logo.svg"
+    }
+]
